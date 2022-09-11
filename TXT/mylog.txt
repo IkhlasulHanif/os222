@@ -6,4 +6,11 @@ ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00 15 L03 GitHub related
 ZCZC W00 15 L04 GitHub Pages related
 ZCZC W00 100 L99 Face-to-face lecture
-ZCZC W00 40 L05 Quiz + studying
+ZCZC W00 40 L05 Quiz related including studying
+ZCZC W01 200 L02 ZOOM meetings related
+ZCZC W01  70 L05 Quiz related including studying
+ZCZC W01 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W01 480 L09 Weekly Assignments
+ZCZC W01  20 L03 GitHub related
+ZCZC W01  20 L40 TXT/ related in general.
+ZCZC W01  50 L06 References/Books/Documents/Browsing/GSGS related
