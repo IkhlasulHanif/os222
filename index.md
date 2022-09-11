@@ -1,1 +1,1 @@
-| [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [GITHUB]({{ site.githublink }})
+| [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [GITHUB](https://github.com/IkhlasulHanif/os222)
