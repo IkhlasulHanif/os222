@@ -14,3 +14,9 @@ ZCZC W01 480 L09 Weekly Assignments
 ZCZC W01  20 L03 GitHub related
 ZCZC W01  20 L40 TXT/ related in general.
 ZCZC W01  50 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 200 L02 ZOOM meetings related
+ZCZC W02 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend
+ZCZC W02 240 L09 Weekly Assignments
+ZCZC W02 150 L06 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 60 L04 TXT/ related in general.
+ZCZC W02 100 L05 Quiz related including studying
