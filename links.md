@@ -16,3 +16,10 @@ If you input a wrong passphrase and want to "reset" it you can follow the steps 
 One of OS TA actually recommend to use nano instead of vim, if you are interested clink the link above for a quick 1 minute video explaining nano.
 3. [EDITING WITH VIM](https://www.youtube.com/watch?v=0zSSLpcNOwA) <br>
 If you are trying to learn vim quickly, here is another 1 minute video explaining vim.
+# Week 3
+1. [INTRO TO C FOR JAVA PROGRAMMERS](https://www.youtube.com/watch?v=OWCBzfeYX2M) <br>
+Good for Fasilkomers because we already learned Java, however the explanation are not quite the best. It's best to read the slides shown in the video.
+2. [SED WITH EXAMPLES](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/)<br>
+GFG website, quick and simple to review and learn about sed.
+3. [LINUX FILE SYSTEM EXPLAINED](https://www.youtube.com/watch?v=HbgzrKJvDRw)<br>
+A quick 15 minutes videos explaing linux file system.
