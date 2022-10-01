@@ -28,3 +28,12 @@ ZCZC W03 120 L06 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03  90 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend
 ZCZC W03  15 L03 GitHub related
 ZCZC W03  60 L22 Linux CLI including tar, etc.
+ZCZC W04 200 L02 ZOOM related
+ZCZC W04 120 L05 Quiz related including studying
+ZCZC W04 180 L06 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04  90 L09 Weekly Assignments
+ZCZC W04  60 L04 TXT/ related in general.
+ZCZC W04  45 L25 C-language including Make.
+ZCZC W04  60 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W04 120 L07 Demo related
+ZCZC W04  30 L04 GitHub Pages related

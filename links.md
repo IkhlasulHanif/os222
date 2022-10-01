@@ -23,3 +23,10 @@ Good for Fasilkomers because we already learned Java, however the explanation ar
 GFG website, quick and simple to review and learn about sed.
 3. [LINUX FILE SYSTEM EXPLAINED](https://www.youtube.com/watch?v=HbgzrKJvDRw)<br>
 A quick 15 minutes videos explaing linux file system.
+# Week 4
+1. [C POINTERS EXAMPLE](https://www.javatpoint.com/c-pointers#:~:text=The%20pointer%20in%20C%20language,a%20pointer%20is%202%20byte.)
+Simple website, explaining c pointers with examples.
+2. [C POINTERS QUICK OVERVIEW](https://www.youtube.com/watch?v=f2i0CnUOniA)
+This video give good and quick overview for c pointers.
+3. [C FOR JAVA PROGRAMMERS](https://www.cs.rochester.edu/u/ferguson/csc/c/c-for-java-programmers.pdf)
+Very detailed guide to c for java programmers.
