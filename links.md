@@ -1,6 +1,14 @@
 ---
 permalink: LINKS/
 ---
+<span style="color:red; font-weight:bold; font-size:larger;">By Ikhlasul Akmal Hanif</span>
+<br><br>
+[HOME]({{ site.baseurl }}/) ---
+[LOG]({{ site.baseurl }}/TXT/mylog.txt) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[GITHUB](https://github.com/Pyqe/os222)
+<br>
+<hr>
 
 # Week 1
 1. [REGEX IN 100 SECOND](https://www.youtub.com/watch?v=sXQxhojSdZM) <br>
