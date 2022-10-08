@@ -37,3 +37,9 @@ ZCZC W04  45 L25 C-language including Make.
 ZCZC W04  60 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W04 120 L07 Demo related
 ZCZC W04  30 L04 GitHub Pages related
+ZCZC W05 200 L02 ZOOM related
+ZCZC W05 100 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend
+ZCZC W05  60 L04 TXT/ related in general.
+ZCZC W05 100 L05 Quiz related including studying
+ZCZC W05 120 L25 C-language including Make.
+ZCZC W05 150 L09 Weekly Assignments

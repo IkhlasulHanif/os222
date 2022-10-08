@@ -38,3 +38,10 @@ Simple website, explaining c pointers with examples.
 This video give good and quick overview for c pointers.
 3. [C FOR JAVA PROGRAMMERS](https://www.cs.rochester.edu/u/ferguson/csc/c/c-for-java-programmers.pdf)
 Very detailed guide to c for java programmers.
+# Week 5
+1. [HOW DOES MEMORY WORKS IN VIRTUAL BOX?](https://superuser.com/questions/66842/how-does-virtualboxs-memory-usage-work)<br>
+Quick answer to this question.
+2. [C FUNCTIONS](https://www.tutorialspoint.com/cprogramming/c_functions.html)<br>
+About C functions as simple as that, increasing your c knowledge is always good.
+3. [VIRTUAL VS PHYSICAL MEMORY](https://www.techwalla.com/articles/difference-virtual-memory-physical-memory_)
+Good website explaining the differences between 2 types of memories.
