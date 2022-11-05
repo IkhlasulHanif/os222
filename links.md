@@ -45,3 +45,9 @@ Quick answer to this question.
 About C functions as simple as that, increasing your c knowledge is always good.
 3. [VIRTUAL VS PHYSICAL MEMORY](https://www.techwalla.com/articles/difference-virtual-memory-physical-memory_)
 Good website explaining the differences between 2 types of memories.
+# Week 6
+1. [WEB EXPLAINING FORK IN C](https://www.section.io/engineering-education/fork-in-c-programming-language/)
+Website explaining how for works in C.
+2. [FORK FUNCTION IN C VIDEO](https://www.youtube.com/watch?v=cex9XrZCU14)
+Video from CodeVault explaining forks function.
+

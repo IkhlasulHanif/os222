@@ -43,3 +43,10 @@ ZCZC W05  60 L04 TXT/ related in general.
 ZCZC W05 100 L05 Quiz related including studying
 ZCZC W05 120 L25 C-language including Make.
 ZCZC W05 150 L09 Weekly Assignments
+ZCZC W06 200 L02 ZOOM related
+ZCZC W06  60 L04 TXT/ related in general.
+ZCZC W06 150 L09 Weekly Assignments
+ZCZC W06 120 L07 Demo related
+ZCZC W06 150 L05 Quiz related including studying
+ZCZC W06 120 L06 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06  90 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend
