@@ -50,4 +50,9 @@ Good website explaining the differences between 2 types of memories.
 Website explaining how for works in C.
 2. [FORK FUNCTION IN C VIDEO](https://www.youtube.com/watch?v=cex9XrZCU14)
 Video from CodeVault explaining forks function.
+# Week 7
+1. [SCP File](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+Web explaining how to transfer file from remote to local and vice-versa.
+2. [Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+Explaing what is deadlock in OS.
 
