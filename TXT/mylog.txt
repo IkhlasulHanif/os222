@@ -57,3 +57,9 @@ ZCZC W07 150 L07 Demo related
 ZCZC W07 90 L05 Quiz related including studying
 ZCZC W07 100 L06 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W07  90 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend
+ZCZC W08 200 L99 Face-to-face lecture
+ZCZC W08  60 L04 TXT/ related in general.
+ZCZC W08 360 L09 Weekly Assignments
+ZCZC W08  60 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W08 120 L05 Quiz related including studying
+ZCZC W08 120 L64 Helping a friend (OS related problem)

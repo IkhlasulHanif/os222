@@ -43,16 +43,20 @@ Very detailed guide to c for java programmers.
 Quick answer to this question.
 2. [C FUNCTIONS](https://www.tutorialspoint.com/cprogramming/c_functions.html)<br>
 About C functions as simple as that, increasing your c knowledge is always good.
-3. [VIRTUAL VS PHYSICAL MEMORY](https://www.techwalla.com/articles/difference-virtual-memory-physical-memory_)
+3. [VIRTUAL VS PHYSICAL MEMORY](https://www.techwalla.com/articles/difference-virtual-memory-physical-memory_)<br>
 Good website explaining the differences between 2 types of memories.
 # Week 6
-1. [WEB EXPLAINING FORK IN C](https://www.section.io/engineering-education/fork-in-c-programming-language/)
+1. [WEB EXPLAINING FORK IN C](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
 Website explaining how for works in C.
-2. [FORK FUNCTION IN C VIDEO](https://www.youtube.com/watch?v=cex9XrZCU14)
+2. [FORK FUNCTION IN C VIDEO](https://www.youtube.com/watch?v=cex9XrZCU14)<br>
 Video from CodeVault explaining forks function.
 # Week 7
-1. [SCP File](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+1. [SCP File](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
 Web explaining how to transfer file from remote to local and vice-versa.
-2. [Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+2. [Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
 Explaing what is deadlock in OS.
-
+# Week 8
+1. [DIFF BETWEEN TROUGHPUT TURNAROUND AND RESPONSE TIME](https://benchpartner.com/q/what-is-throughput-turnaround-time-waiting-time-and-response-time)<br>
+Website explaining how to differentiate all the things above.
+2. [SJF](https://www.geeksforgeeks.org/shortest-job-first-or-sjf-cpu-scheduling-non-preemptive-algorithm-using-segment-tree/)<br>
+GFG Website explaining SJF.
