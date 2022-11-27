@@ -63,3 +63,9 @@ ZCZC W08 360 L09 Weekly Assignments
 ZCZC W08  60 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W08 120 L05 Quiz related including studying
 ZCZC W08 120 L64 Helping a friend (OS related problem)
+ZCZC W09 200 L99 Face-to-face lecture
+ZCZC W09  60 L04 TXT/ related in general.
+ZCZC W09 300 L09 Weekly Assignments
+ZCZC W09  90 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W09 120 L05 Quiz related including studying
+ZCZC W09 60 L64 Helping a friend (OS related problem)

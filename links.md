@@ -60,3 +60,8 @@ Explaing what is deadlock in OS.
 Website explaining how to differentiate all the things above.
 2. [SJF](https://www.geeksforgeeks.org/shortest-job-first-or-sjf-cpu-scheduling-non-preemptive-algorithm-using-segment-tree/)<br>
 GFG Website explaining SJF.
+# Week 9
+1. [LINUX FROM SCRATCH EXPERIENCE](https://dev.to/donaldsebleung/my-thoughts-and-experiences-with-linux-from-scratch-3ikm)<br>
+A blog about the writer experience and tips on attempting lfs.
+2. [LISTING ALL INSTALLED PACKAGES](https://www.linuxquestions.org/questions/linux-from-scratch-13/list-installed-packages-or-programs-lfs-4175438377/)<br>
+Explaing how to list all installed packages to recheck after doing the chapter 6 and 7.
